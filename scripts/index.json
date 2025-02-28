@@ -149,8 +149,8 @@
      {
         "name": "Swift",
         "pros": ["Has a decompiler", "97% sUNC [96% UNC]", "Level 8"],
-        "neutral": ["Expect crashes"],
-        "cons": [],
+        "neutral": ["Expect crashes", "Includes a keysystem"],
+        "cons": ["Undergoing a rewrite"],
         "link": "https://getswift.xyz",
         "linkprotected": "https://lootdest.org/s?bHTXxerk",
         "buttonText": "FREE",
